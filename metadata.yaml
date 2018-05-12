@@ -1,0 +1,31 @@
+_repo: -Evacuation-Day--1783-Its-Many-Stirring-Events--13-With-Recollections-of-Capt.-John-Van-Arsda__33419
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Riker, James
+    birthdate: 1822
+    deathdate: 1889
+    gutenberg_agent_id: '36395'
+    url: http://www.gutenberg.org/2009/agents/36395
+description: ''
+gutenberg_issued: '2010-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33419'
+  lccn: '02004514'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E201'
+- !lcsh 'Van Arsdale, John, 1756-1836'
+- !lcsh 'Evacuation Day, New York, N.Y., 1783'
+title: "\"Evacuation Day\", 1783, Its Many Stirring Events\r\nWith Recollections of\
+  \ Capt. John Van Arsdale, of the Veteran Corps of Artillery, by Whose Efforts on\
+  \ That Day the Enemy Were Circumvented, and the American Flag Successfully Raised\
+  \ on the Battery"
+url: http://www.gutenberg.org/ebooks/33419
