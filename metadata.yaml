@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '36395'
     url: http://www.gutenberg.org/2009/agents/36395
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33419#-Evacuation-Day--1783-Its-Many-Stirring-Events--13-With-Recollections-of-Capt.-John-Van-Arsda_
 gutenberg_issued: '2010-08-13'
 gutenberg_type: Text
 identifiers:
